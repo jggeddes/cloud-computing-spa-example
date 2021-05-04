@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#portfolio-container {
+    display: flex;
+    width: 80vw;
+    margin: auto;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#get-started {
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    letter-spacing: 2px;
+}
+
+.cta-button {
+    background-color:rgb(75, 0, 75);
+    color: white;
+    font-family: 'Arial', cursive, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    height: 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    width: 120px;
+}
+
+#home-image {
+    min-width: 100vw;
+    max-height: 600px;
+}
+
+.project-img {
+    max-width: 100%;
+}
+
+html {
+    min-height: 100%;
+}
+
+body {
+    min-height: 100%;
+    font-family: 'Arial', cursive, Helvetica, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    width: 100%;
+    min-height: 100px;
+}
+
+.navbar li {
+    margin: 15px;
+    font-size: 1.5em;
+    color: black;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.page-header {
+    letter-spacing: 3px;
+    padding: 100px;
+    text-align: center;
+    background-color:navy; 
+    color:white;
+}
+
+.project-container {
+    width: 45%;
+    min-height: 350px;
+    border: 1px solid black;
+    margin: 5px;
+    padding-bottom: 5px;
+    text-align: center; 
+    background-color: white;   
+}
+
+.project-img {
+    min-width: 100%;
+    max-height: 300px;
+    border-bottom: 2px solid rgb(138, 138, 138);
+}
+
+#class-header {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.foot {
+    letter-spacing: 3px;
+    text-align: center;
+    background-color:navy; 
+    color: white;
+ 	padding:75px;
+ 	margin:auto;
+ 	min-width: 100%;
+}
+
+h1 {
+	text-align: center;
+	padding:20px;
+}
