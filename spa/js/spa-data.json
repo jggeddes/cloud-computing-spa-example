@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "animalName": "White House Cat",
+            "class": "Cats",
+            "img": "images/cat1.jpeg"
+        },
+        {
+            "animalName": "Cheetah",
+            "class": "Cats",
+            "img": "images/cheetah.jpg"
+        },
+        {
+            "animalName": "Lion",
+            "class": "Cats",
+            "img": "images/lion.jpeg"
+        },
+        {
+            "animalName": "Tiger",
+            "class": "Cats",
+            "img": "images/tiger.jpg"
+        },
+        {
+            "animalName": "House Dog",
+            "class": "Dogs",
+            "img": "images/dog.jpg"
+        },
+        {
+            "animalName": "Wolf",
+            "class": "Dogs",
+            "img": "images/wolf.jpeg"
+        },
+        {
+            "animalName": "Fox",
+            "class": "Dogs",
+            "img": "images/fox.jpg"
+        },
+        {
+            "animalName": "Coyote",
+            "class": "Dogs",
+            "img": "images/coyote.jpg"
+        },
+        {
+            "animalName": "Eagle",
+            "class": "Birds",
+            "img": "images/eagle.jpg"
+        },
+        {
+            "animalName": "Parrot",
+            "class": "Birds",
+            "img": "images/parrot.jpg"
+        },
+        {
+            "animalName": "Penguin",
+            "class": "Birds",
+            "img": "images/penguin.jpg"
+        },
+        {
+            "animalName": "Falcon",
+            "class": "Birds",
+            "img": "images/falcon.jpg"
+        },
+        {
+            "animalName": "Gold Fish",
+            "class": "Fish",
+            "img": "images/goldfish.jpg"
+        },
+        {
+            "animalName": "Cat Fish",
+            "class": "Fish",
+            "img": "images/catfish.jpg"
+        },
+        {
+            "animalName": "Salmon",
+            "class": "Fish",
+            "img": "images/salmon.jpeg"
+        },
+        {
+            "animalName": "Bass",
+            "class": "Fish",
+            "img": "images/bass.jpg"
+        }
+    ]
+}
+
